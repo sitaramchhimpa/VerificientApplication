@@ -1,0 +1,2 @@
+# VerificientApplication
+qt application 
